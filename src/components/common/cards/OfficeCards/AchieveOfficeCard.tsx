@@ -11,7 +11,7 @@ export default function AchieveOfficeCard({image, name}: TAchieveOfficeCard) {
             <Image className="" height={71} width={71} src='/delete/delete.png' alt='achieve'/>
 
             <h4 className="text-heading-ss-bold text-white">
-                Назавние ачивки
+                Название ачивки
             </h4>
         </div>
     )
